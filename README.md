@@ -183,7 +183,7 @@ Desarrollar un temporizador Pomodoro que permita al usuario gestionar intervalos
   - Un archivo JavaScript con la lógica del temporizador.
 - Debe hacer un fork a este repositorio y luego clonarlo antes de comenzar el desarrollo.
 - Al inicio del proyecto consigne sus apellidos y nombres
-- La entrega se realizará mediante un repositorio de GitHub, cuya URL debe ser compratido a el docente medinate https://forms.gle/CBNt9LDcjbMYVidr6.
+- La entrega se realizará mediante un repositorio de GitHub, cuya URL debe ser compartido a el docente medinate https://forms.gle/CBNt9LDcjbMYVidr6.
 
 
 #### **Evaluación**
