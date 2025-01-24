@@ -1,0 +1,15 @@
+.pomodoro-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#timer {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 20px 0;
+}
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
